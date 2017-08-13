@@ -5,6 +5,9 @@ This project focuses on basic HTML layouts and CSS styling elements
 
 Your task is to review index.png and index.html and to write the CSS to match the mockup provided
 
+## View my final website here 
+https://designbright.github.io/PuppyLove/
+
 ## Resources
 
 The resources folder contains files designed to help you complete the activity. This will include screen shots of the completed HTML and files containing the text.
