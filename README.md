@@ -19,15 +19,5 @@ Screen shot of the final code are provided for reference. Feel free to compare y
 
 The starter files contains the complete HTML file, image folder, and a blank linked style sheet. Work out of this folder, but don't edit the HTML. Your goal is to add styles to the style sheet to match *index.html*.
 
-echo "# PuppyLove" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:designbright/PuppyLove.git
-git push -u origin master
 
 
-
-
-# css_styling_assessment
-# PuppyLove
